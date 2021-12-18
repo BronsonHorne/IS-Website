@@ -1,0 +1,16 @@
+/*Bronson Horne 12/17/2021*/
+/* My 5 Changes */
+body{
+    background-image: url(../images/Mexico\ beach\ sunset.jpg);
+}
+.text-box {
+    background-color: #495057;
+    border: solid 2px black;
+    }
+.text-color{
+    color: rgb(0, 180, 180);
+    text-align: center;
+}
+.text-tocenter{
+    text-align: center;
+ }

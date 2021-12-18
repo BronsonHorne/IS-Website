@@ -1,0 +1,43 @@
+/*Tableau Nav Bar*/
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #495057;
+}
+li{
+    float: right;
+}
+li a{
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+ h2 {
+    width: auto;
+    height: 30px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 80px;
+    margin-bottom:90px;
+    background-color:#555;
+    text-align: center;  
+ } 
+ a img {
+    margin:0 auto;    
+    display:block;
+ }
+ h1{
+     text-align: center;
+ }
+ 
+ img{
+     width: 300;
+     height: 300;
+ }
